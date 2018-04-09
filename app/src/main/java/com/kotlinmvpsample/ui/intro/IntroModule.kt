@@ -1,5 +1,6 @@
 package com.kotlinmvpsample.ui.intro
 
+import com.findwitness.ui.intro.IntroPresenterImpl
 import dagger.Module
 import dagger.Provides
 

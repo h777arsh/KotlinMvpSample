@@ -1,6 +1,7 @@
-package com.kotlinmvpsample.ui.intro
+package com.findwitness.ui.intro
 
 import com.github.ajalt.timberkt.d
+import com.kotlinmvpsample.ui.intro.IntroContract
 
 /**
  * Author: Harsh
